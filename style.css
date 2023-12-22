@@ -432,7 +432,7 @@ main .main-top{
     
     }
     
-    .middle-left p{
+    .middle-left >p{
         text-align: center;
     }
 
@@ -446,7 +446,7 @@ main .main-top{
         text-align: center;
     }
     
-    .some-fact>p{
+    .some-fact p{
         text-align: center;
     }
     
